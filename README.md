@@ -7,8 +7,6 @@ With **20+ years of professional technology experience** and **12+ years in seco
 - **Core Curriculum:** Career Technical Education Foundations of Computer Systems, Web Design 1, Web Design 2, and STEM Work Based Learning
 - **Focus:** Helping students build strong computational thinking skills, project-based portfolio work, and tech fluency for the future.
 
-📍 **Location:** Roosevelt High School, Hawaii 🌺
-
 ### WHAT I'M CURRENTLY WORKING ON
-- I've already finished my game Hexagon [LINK TO GAME](https://howardkam.itch.io/hexagon)
-- Working on my second game with the working title of Apocalyse Samurai. 
+- I've finished my first game titled "Hexagon" [LINK TO GAME](https://howardkam.itch.io/hexagon)
+- Working on my second game with the working title of "Apocalyse Samurai" 
